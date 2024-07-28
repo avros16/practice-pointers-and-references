@@ -1,0 +1,16 @@
+Write a function swap that takes two integer pointers and swaps the values they point to.
+
+Write a program that dynamically allocates memory for an array of integers using pointers. Populate the array with user input and then print the array.
+
+
+
+
+Create a function that takes a pointer to an array of integers and its size, and then reverses the array in place using pointer arithmetic.
+
+
+
+Write a function that takes two integer references and swaps their values.
+
+
+
+Write a function that takes a pointer to a pointer to an integer and sets the value of the integer to a specified value.
